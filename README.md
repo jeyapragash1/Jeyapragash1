@@ -67,15 +67,21 @@ A passionate Full Stack Developer from Sri Lanka
   <img src="https://github-profile-trophy.vercel.app/?username=Jeyapragash&theme=onestar&column=7&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
+---
+
 ### Contribution Streak:
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeyapragash" alt="Jeyapragash's Streak Stats" />
 </p>
 
+---
+
 ### GitHub Activity Graph:
 <p align="left">
   <img src="https://activity-graph.herokuapp.com/graph?username=Jeyapragash&bg_color=ffffff&color=037efe&line=037efe&point=030303&area=true&hide_border=true" alt="Jeyapragash's GitHub Activity Graph" />
 </p>
+
+---
 
 ### Support Me:
 <p align="left">
@@ -83,12 +89,14 @@ A passionate Full Stack Developer from Sri Lanka
     <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FC4C02?style=flat&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me A Coffee" />
   </a>
 </p>
+---
 
 ### Dynamic Stats:
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Jeyapragash" alt="Jeyapragash's Wakatime Stats" />
 </p>
 
+---
 ### Recent GitHub Activity:
 <p align="left">
   <img src="https://github-contributor-stats.vercel.app/api?username=Jeyapragash&theme=light" alt="Jeyapragash GitHub Activity" />
