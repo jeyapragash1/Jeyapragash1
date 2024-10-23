@@ -57,10 +57,12 @@ A passionate Full Stack Developer from Sri Lanka
   <img src="https://github-readme-stats.vercel.app/api?username=Jeyapragash&show_icons=true&locale=en" alt="Jeyapragash GitHub Stats" />
 </p>
 
-### Most Used Languages:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jeyapragash&show_icons=true&locale=en&layout=compact" alt="Jeyapragash GitHub Languages" />
-</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jeyapragash&show_icons=true&locale=en&layout=compact" alt="Jeyapragash" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jeyapragash&show_icons=true&locale=en" alt="Jeyapragash" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jeyapragash&" alt="Jeyapragash" /></p>
 
 ---
 
