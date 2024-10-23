@@ -48,13 +48,13 @@ A passionate Full Stack Developer from Sri Lanka
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=Jeyapragash&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=Jeyapragash1&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
 ### GitHub Stats:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jeyapragash&show_icons=true&locale=en" alt="Jeyapragash GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jeyapragash1&show_icons=true&locale=en" alt="Jeyapragash GitHub Stats" />
 </p>
 
 ---
