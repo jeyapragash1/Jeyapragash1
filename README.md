@@ -104,16 +104,12 @@ A passionate Full Stack Developer from Sri Lanka.
 ![My GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Jeyapragash1&theme=react-light&area=true)
 
 ---
----
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jeyapragash1&show_icons=true&locale=en&layout=compact" alt="Jeyapragash1" /></p>
-
-<br>
-
----
-
 ### GitHub Trophies:
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=Jeyapragash1&theme=onestar&column=7&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </p>
+
+
+---
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jeyapragash1&show_icons=true&locale=en&layout=compact" alt="Jeyapragash1" /></p>
 
