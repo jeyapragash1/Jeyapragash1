@@ -111,6 +111,7 @@ A passionate Full Stack Developer from Sri Lanka.
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=Jeyapragash1&theme=onestar&column=7&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </p>
+
 ---
 
 
