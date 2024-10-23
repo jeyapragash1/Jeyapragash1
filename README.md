@@ -95,10 +95,8 @@ A passionate Full Stack Developer from Sri Lanka.
   </a>
 </p>
 
----
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jeyapragash1&show_icons=true&locale=en&layout=compact" alt="Jeyapragash1" /></p>
 
----
 
 ### 📊 My GitHub Stats
 
@@ -111,7 +109,7 @@ A passionate Full Stack Developer from Sri Lanka.
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=Jeyapragash1&theme=onestar&column=7&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </p>
-
+---
 
 
 
