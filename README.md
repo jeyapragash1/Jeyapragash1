@@ -94,6 +94,7 @@ A passionate Full Stack Developer from Sri Lanka.
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js" width="40" height="40"/> 
   </a>
 </p>
+
 ---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jeyapragash1&show_icons=true&locale=en&layout=compact" alt="Jeyapragash1" /></p>
