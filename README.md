@@ -67,28 +67,28 @@ A passionate Full Stack Developer from Sri Lanka
 
 ### GitHub Trophies:
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jeyapragash&theme=onestar&column=7&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Jeyapragash1&theme=onestar&column=7&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 ---
 
 ### Contribution Streak:
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeyapragash" alt="Jeyapragash's Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeyapragash1" alt="Jeyapragash's Streak Stats" />
 </p>
 
 ---
 
 ### GitHub Activity Graph:
 <p align="left">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Jeyapragash&bg_color=ffffff&color=037efe&line=037efe&point=030303&area=true&hide_border=true" alt="Jeyapragash's GitHub Activity Graph" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=Jeyapragash1&bg_color=ffffff&color=037efe&line=037efe&point=030303&area=true&hide_border=true" alt="Jeyapragash's GitHub Activity Graph" />
 </p>
 
 ---
 
 ### Support Me:
 <p align="left">
-  <a href="https://www.buymeacoffee.com/username" target="_blank">
+  <a href="https://www.buymeacoffee.com/Jeyapragash1" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FC4C02?style=flat&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me A Coffee" />
   </a>
 </p>
@@ -96,11 +96,11 @@ A passionate Full Stack Developer from Sri Lanka
 
 ### Dynamic Stats:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Jeyapragash" alt="Jeyapragash's Wakatime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Jeyapragash1" alt="Jeyapragash's Wakatime Stats" />
 </p>
 
 ---
 ### Recent GitHub Activity:
 <p align="left">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Jeyapragash&theme=light" alt="Jeyapragash GitHub Activity" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=Jeyapragash1&theme=light" alt="Jeyapragash GitHub Activity" />
 </p>
