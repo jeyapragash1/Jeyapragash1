@@ -27,12 +27,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-  </a>
+
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
   </a>
@@ -75,9 +70,8 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
-  </a>
+ 
+
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
   </a>
@@ -87,15 +81,11 @@
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Adobe Photoshop" width="40" height="40"/> 
   </a>
-  <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" alt="Adobe Premiere Pro" width="40" height="40"/> 
-  </a>
+ 
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="nextjs" width="40" height="40"/> 
   </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="postgresql" width="40" height="40"/> 
-  </a>
+
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="typescript" width="40" height="40"/> 
   </a>
@@ -112,14 +102,47 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jeyapragash1&show_icons=true&locale=en&theme=radical" alt="Jeyapragash's GitHub stats" />
 </a>
 
-<h3 align="left">⚡ Recent Activity:</h3>
+---
+
+<h3 align="left">🔥 Recent Activity:</h3>
 <!--START_SECTION:activity-->
+<!-- Recent activity will show up here -->
 <!--END_SECTION:activity-->
 
-<!---
-**Jeyapragash1/Jeyapragash1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the preview link above to see how it looks.
+---
 
-I’m Jeyapragash, a passionate Full Stack developer from Sri Lanka, currently studying for a Bachelor's in Industrial Information Technology (BSc. Hons). 
-Feel free to reach out for collaboration or inquiries regarding PHP, JavaScript, or Full Stack Development!
---->
+<h3 align="left">📈 GitHub Streak:</h3>
+<p align="left">
+  <a href="https://github.com/Jeyapragash1">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jeyapragash1&theme=radical" alt="Jeyapragash's streak" />
+  </a>
+</p>
+
+---
+
+<h3 align="left">📚 Blog Posts:</h3>
+<!-- BLOG-POST-LIST:START -->
+- Coming soon! Stay tuned for insightful posts on tech and development.
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+<h3 align="left">🏆 GitHub Trophies:</h3>
+<p align="left">
+  <a href="https://github.com/Jeyapragash1">
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=Jeyapragash1&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  </a>
+</p>
+
+---
+
+<h3 align="left">✨ Fun Projects:</h3>
+- **EventLanka**: An event management platform offering services like hall bookings, catering, and customized packages.  
+- **Sentinel Safe**: A home security system to track visitors and enable alerts for homeowners.
+- **Blood Management System**: An application to streamline blood donation and transfusion management.
+
+---
+
+<!--
+**Jeyapragash1/Jeyapragash1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
