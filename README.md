@@ -142,14 +142,14 @@
 
 # 📊 GitHub Stats:
 
-![](https://komarev.com/ghpvc/?username=iamkeerthy&abbreviated=true) <br/>
-<a href="https://github.com/iamkeerthy">
-![](https://github-readme-stats.vercel.app/api?username=iamkeerthy&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamkeerthy&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=iamkeerthy&theme=blue-green&hide_border=true)
+![](https://komarev.com/ghpvc/?username=jeyapragas1&abbreviated=true) <br/>
+<a href="https://github.com/jeyapragash1">
+![](https://github-readme-stats.vercel.app/api?username=jeyapragash1&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jeyapragash1&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=jeyapragash1&theme=blue-green&hide_border=true)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iamkeerthy&theme=blue_green)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iamkeerthy&theme=blue_green&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jeyapragash1&theme=blue_green)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jeyapragash1&theme=blue_green&utcOffset=8)
 
 
 <br/>
