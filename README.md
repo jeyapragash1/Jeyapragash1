@@ -8,8 +8,11 @@
 <td width="50%" align="left">
   
 - 🌱 I’m currently pursuing **BSc in Industrial Information Technology** at **Uva Wellassa University, Sri Lanka**
+  
 - 💬 Ask me about **Full Stack Development, MERN Stack, PHP, JavaScript, MySQL, and Python**
+  
 - 📫 How to reach me: **kishojeyapragash@gmail.com**
+  
 - ⚡ Fun fact: **I love solving problems through coding and am always eager to learn new**
 
 </td>
