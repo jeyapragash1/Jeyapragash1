@@ -5,6 +5,8 @@ Hi 👋, I'm **Jeyapragash**<br>A passionate Full Stack Developer from Sri Lanka
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jeyapragas) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jeya-pragash-163355266) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/JeyaPragash015)
+   [🌐 Visit My Portfolio](https://kishojeyapragash.netlify.app/)  
+
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -61,15 +63,6 @@ Hi 👋, I'm **Jeyapragash**<br>A passionate Full Stack Developer from Sri Lanka
 
 ---
 
-<h3 align="left">📈 GitHub Streak:</h3>
-<p align="left">
-  <a href="https://github.com/Jeyapragash1">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jeyapragash1&theme=radical" alt="Jeyapragash's streak" />
-  </a>
-</p>
-
----
-
 <h3 align="left">📚 Blog Posts:</h3>
 <!-- BLOG-POST-LIST:START -->
 - Coming soon! Stay tuned for insightful posts on tech and development.
@@ -88,4 +81,22 @@ Hi 👋, I'm **Jeyapragash**<br>A passionate Full Stack Developer from Sri Lanka
 
 ## 📈 Contribution Graph
 ![Jeyapragash's GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=jeyapragash1&theme=tokyo-night&hide_border=false)
+
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
+---
+
+[![Repo Contributions](https://img.shields.io/badge/Contributions-%23green.svg?logo=github&logoColor=white)](https://github.com/Jeyapragash1)
+
+
+---
+
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsored%20by-GitHub%20Sponsors-blue)](https://github.com/sponsors/jeyapragash1)
 
