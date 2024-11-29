@@ -115,5 +115,26 @@
 
 ---
 
-<h3 align="left">📚 Blog Posts:</h3>
-<!-- BLOG-POST-LIST:START
+<h3 align="left">📚 Projects:</h3>
+<p align="left">
+  <a href="https://github.com/Jeyapragash1/Blood-Management-System">
+    <img align="center" src="https://github-readme-project-card.vercel.app/api?project=Jeyapragash1/Blood-Management-System" alt="Blood Management System"/>
+  </a>
+</p>
+
+---
+
+<h3 align="left">⚡ GitHub Activity & Stats</h3>
+<p align="left">
+  <a href="https://github.com/Jeyapragash1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jeyapragash1&show_icons=true&hide_title=true&count_private=true&theme=radical" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/Jeyapragash" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FF813F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" />
+  </a>
+</p>
