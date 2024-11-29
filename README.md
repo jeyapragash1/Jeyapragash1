@@ -1,16 +1,28 @@
-![MasterHead](https://healthyresumes.com/wp-content/uploads/2022/10/LinkedIn-Background-Photo-49-1.webp)
-
+<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Jeyapragash</h1>
-<h3 align="center">A passionate Full Stack Developer from Sri Lanka</h3>
+<h3 align="center">A passionate Full Stack Developer| Exploring the Boundless World of Technology</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jeyapragash1&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jeyapragash1&label=Profile%20views&color=0e75b6&style=flat" alt="Jeyapragash" /> </p>
-
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+  
 - 🌱 I’m currently pursuing **BSc in Industrial Information Technology** at **Uva Wellassa University, Sri Lanka**
 - 💬 Ask me about **Full Stack Development, MERN Stack, PHP, JavaScript, MySQL, and Python**
 - 📫 How to reach me: **kishojeyapragash@gmail.com**
-- ⚡ Fun fact: **I love solving problems through coding and am always eager to learn new technologies!**
+- ⚡ Fun fact: **I love solving problems through coding and am always eager to learn new**
+
+</td>
+<td width="50%" align="center">
+
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+
+  
+  </td>
+</tr>
+</table>
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,6 +36,8 @@
     <img align="center" src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter"/>
   </a>
 </p>
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -88,6 +102,8 @@
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
   </a>
 </p>
+
+---
 
 <h3 align="left">📊 My GitHub Stats</h3>
 <a href="https://github.com/Jeyapragash1">
