@@ -7,10 +7,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jeyapragash1&label=Profile%20views&color=0e75b6&style=flat" alt="Jeyapragash" /> </p>
 
-- 🌱 I’m currently pursuing *BSc in Industrial Information Technology* at *Uva Wellassa University, Sri Lanka*
-- 💬 Ask me about *Full Stack Development, MERN Stack, PHP, JavaScript, MySQL, Python, Spring Boot, and Hibernate*
-- 📫 How to reach me: *kishojeyapragash15@gmail.com*
-- ⚡ Fun fact: *I love solving problems through coding and am always eager to learn new technologies!*
+- 🌱 I’m currently pursuing **BSc in Industrial Information Technology** at **Uva Wellassa University, Sri Lanka**
+- 💬 Ask me about **Full Stack Development, MERN Stack, PHP, JavaScript, MySQL, and Python**
+- 📫 How to reach me: **kishojeyapragash@gmail.com**
+- ⚡ Fun fact: **I love solving problems through coding and am always eager to learn new technologies!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -75,6 +75,12 @@
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
   </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="typescript" width="40" height="40"/> 
+  </a>
+  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
+  </a>
   <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40"/>
   </a>
@@ -110,7 +116,6 @@
 ---
 
 <h3 align="left">📚 Blog Posts:</h3>
-
 <!-- BLOG-POST-LIST:START -->
 - Coming soon! Stay tuned for insightful posts on tech and development.
 <!-- BLOG-POST-LIST:END -->
@@ -121,14 +126,5 @@
 <p align="left">
   <a href="https://github.com/Jeyapragash1">
     <img align="center" src="https://github-profile-trophy.vercel.app/?username=Jeyapragash1&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-  </a>
-</p>
-
----
-
-<h3 align="left">👨‍💻 Projects:</h3>
-<p align="left"> 
-  <a href="https://www.powsi.me/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/domain.png" alt="eventlanka" width="50" height="50"/> EventLanka - A web platform for event management.
   </a>
 </p>
