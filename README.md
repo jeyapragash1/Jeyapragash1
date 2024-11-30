@@ -76,12 +76,8 @@ Hi 👋, I'm **Jeyapragash**<br>A passionate Full Stack Developer from Sri Lanka
 
 ---
 
-<h3 align="left">🏆 GitHub Trophies:</h3>
-<p align="left">
-  <a href="https://github.com/Jeyapragash1">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=Jeyapragash1&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-  </a>
-</p>
+# 🎯 GitHub Trophies:
+![Jeyapragash's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jeyapragash1&theme=radical&no-frame=true)
 
 ---
 
