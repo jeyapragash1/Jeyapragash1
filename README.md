@@ -50,10 +50,15 @@ Hi 👋, I'm **Jeyapragash**<br>A passionate Full Stack Developer from Sri Lanka
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
+---
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jeyapragash1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true) 
-![](https://github-readme-streak-stats.herokuapp.com/?user=jeyapragash1&theme=tokyonight&hide_border=false) 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jeyapragash1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![Jeyapragash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeyapragash1&show_icons=true&theme=dark&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=jeyapragash1&theme=dark&hide_border=false&token=YOUR_PERSONAL_ACCESS_TOKEN)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jeyapragash1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&token=YOUR_PERSONAL_ACCESS_TOKEN)
 
 ---
 
@@ -81,7 +86,7 @@ Hi 👋, I'm **Jeyapragash**<br>A passionate Full Stack Developer from Sri Lanka
 ---
 
 ## 📈 Contribution Graph
-![Jeyapragash's GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=jeyapragash1&theme=tokyo-night&hide_border=false)
+![Jeyapragash's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=jeyapragash1&theme=tokyo-night&hide_border=false)
 
 
 ---
@@ -103,6 +108,7 @@ Hi 👋, I'm **Jeyapragash**<br>A passionate Full Stack Developer from Sri Lanka
 
 ---
 
-![Jeyapragash's GitHub Stats](https://github-readme-stats.vercel.app/api?jeyapragash1&show_icons=true)
+
+
 
 
