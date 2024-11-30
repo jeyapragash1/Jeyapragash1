@@ -5,7 +5,7 @@ Hi 👋, I'm **Jeyapragash**<br>A passionate Full Stack Developer from Sri Lanka
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jeyapragas) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jeya-pragash-163355266) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/JeyaPragash015)
-   [🌐 Visit My Portfolio](https://kishojeyapragash.netlify.app/)  
+   [🌐](https://kishojeyapragash.netlify.app/)  
 
 
 # 💻 Tech Stack:
