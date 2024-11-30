@@ -101,3 +101,8 @@ Hi 👋, I'm **Jeyapragash**<br>A passionate Full Stack Developer from Sri Lanka
 
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsored%20by-GitHub%20Sponsors-blue)](https://github.com/sponsors/jeyapragash1)
 
+---
+
+![Jeyapragash's GitHub Stats](https://github-readme-stats.vercel.app/api?jeyapragash1&show_icons=true)
+
+
