@@ -54,12 +54,11 @@ Hi 👋, I'm **Jeyapragash**<br>A passionate Full Stack Developer from Sri Lanka
 
 # 📊 GitHub Stats:
 
-![Jeyapragash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeyapragash1&show_icons=true&theme=dark)
+![Jeyapragash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeyapragash1&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeyapragash1&theme=dark&hide_border=false&count_private=true&token=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)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeyapragash1&theme=dark&hide_border=false&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeyapragash1&theme=dark&hide_border=false&layout=compact)
-
 
 
 ---
