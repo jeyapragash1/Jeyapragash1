@@ -1,22 +1,23 @@
 # 💫 About Me:
-Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm **Jeyapragash**  
+Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm **Kisho Jeyapragash**  
 **A passionate Full Stack Developer from Sri Lanka.**
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="100%" />
 
-<br>
+## 📞 Contact Information
+- **Name**: Kisho Jeyapragash
+- **Phone**: +94 763036242
+- **Email**: [kishojeyapragash@gmail.com](mailto:kishojeyapragash@gmail.com)
+- **Location**: Manmunai West Ganthinagar
+- **Portfolio**: [jeyapragashkisho.netlify.app](https://jeyapragashkisho.Vercel.app/)
 
-- 🌱 I’m currently pursuing **BSc in Industrial Information Technology** at **Uva Wellassa University, Sri Lanka**  
-- 💬 Ask me about **Full Stack Development, MERN Stack, PHP, JavaScript and MySQL**  
-- 📫 How to reach me: **kishojeyapragash@gmail.com**  
-- ⚡ Fun fact: **I love solving problems through coding and am always eager to learn new technologies!**
+----
 
----
 ### 🔗 Connect with Me:
 <a href="mailto:kishojeyapragash@gmail.com" target="_blank">
   <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" alt="Email" height="40">
 </a>
-<a href="https://twitter.com/POWSI07" target="_blank">
+<a href="https://twitter.com/" target="_blank">
   <img src="https://media.giphy.com/media/xT9IgDEI1iZyb2wqo8/giphy.gif" alt="Twitter" height="40">
 </a>
 <a href="https://jeyapragashkisho.vercel.app/" target="_blank">
@@ -109,7 +110,14 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 
 ---
 
-[![Repo Contributions](https://img.shields.io/badge/Contributions-%23green.svg?logo=github&logoColor=white)](https://github.com/Jeyapragash1)
+
+[![Amazon Alexa](https://img.shields.io/badge/Amazon%20Alexa-00CAFF?logo=amazonalexa&logoColor=fff)](#)</br>
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#)</br>
+[![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff)](#)</br>
+[![Google Assistant](https://img.shields.io/badge/Google%20Assistant-4285F4?logo=googleassistant&logoColor=fff)](#)</br>
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](#)</br>
+[![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)](#)</br>
+
 
 
 ---
