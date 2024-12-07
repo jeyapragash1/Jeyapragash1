@@ -2,7 +2,7 @@ name: GitHub Snake Game
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *" # Runs daily at midnight UTC
   workflow_dispatch:
   push:
     branches:
@@ -15,16 +15,18 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
+
       - name: Generate GitHub Contributions Snake Animations
         uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: jeyapragash1
           outputs: |
             dist/my-custom-snake.svg
             dist/my-custom-dark-snake.svg?palette=github-dark
             dist/ocean.gif?color_snake=green&color_dots=#ffb6c1,#ff69b4,#ff1493
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
         with:
