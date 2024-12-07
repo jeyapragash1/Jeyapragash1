@@ -9,7 +9,7 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 - **Phone**: +94 763036242
 - **Email**: [kishojeyapragash@gmail.com](mailto:kishojeyapragash@gmail.com)
 - **Location**: Manmunai West Ganthinagar
-- **Portfolio**: [jeyapragashkisho.netlify.app](https://jeyapragashkisho.Vercel.app/)
+- **Portfolio**:(https://jeyapragashkisho.Vercel.app/)
 
 ----
 
