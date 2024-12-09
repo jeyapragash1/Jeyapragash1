@@ -64,15 +64,13 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 
 # 📊 GitHub Stats:
 
-![](https://komarev.com/ghpvc/?username=jeyapragash1&abbreviated=true&token=YOUR_PERSONAL_ACCESS_TOKEN) <br/>
+![](https://komarev.com/ghpvc/?username=jeyapragash1&abbreviated=true) <br/>
 <a href="https://github.com/jeyapragash1">
-![](https://github-readme-stats.vercel.app/api?username=jeyapragash1&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&token=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)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jeyapragash1&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact&token=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)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeyapragash1&theme=dark&hide_border=false&count_private=true&token=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)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jeyapragash1&theme=blue_green&token=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)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jeyapragash1&theme=blue_green&utcOffset=8&token=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)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeyapragash1&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true)
-
+![](https://github-readme-stats.vercel.app/api?username=jeyapragash1&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jeyapragash1&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeyapragash1&theme=dark&hide_border=false&count_private=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jeyapragash1&theme=blue_green)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jeyapragash1&theme=blue_green&utcOffset=8)
 
 <br/>
 
