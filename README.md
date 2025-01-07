@@ -66,7 +66,7 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 
 ![](https://komarev.com/ghpvc/?username=jeyapragash1&abbreviated=true&token=DcGtZpfaiNZlInjypakDQMrEajJQWV1gOgWv) <br/>
 <a href="https://github.com/jeyapragash1">
-![](https://github-readme-stats.vercel.app/api?username=jeyapragash1&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&token=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)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jeyapragash1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jeyapragash1&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact&token=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)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jeyapragash1&theme=dark&hide_border=false&count_private=true&token=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)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jeyapragash1&theme=blue_green&utcOffset=8&token=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)
