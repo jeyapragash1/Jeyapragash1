@@ -1,15 +1,15 @@
 # 💫 About Me:
-Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm **Kisho Jeyapragash**  
-**A passionate Full Stack Developer from Sri Lanka.**
+Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm *Kisho Jeyapragash*  
+*A passionate Full Stack Developer from Sri Lanka.*
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="100%" />
 
 ## 📞 Contact Information
-- **Name**: Kisho Jeyapragash
-- **Phone**: +94 763036242
-- **Email**: [kishojeyapragash@gmail.com](mailto:kishojeyapragash@gmail.com)
-- **Location**: Manmunai West Ganthinagar
-- **Portfolio**: https://jeyapragashkisho.Vercel.app/
+- *Name*: Kisho Jeyapragash
+- *Phone*: +94 763036242
+- *Email*: [kishojeyapragash@gmail.com](mailto:kishojeyapragash@gmail.com)
+- *Location*: Manmunai West Ganthinagar
+- *Portfolio*: https://jeyapragashkisho.Vercel.app/
 
 ----
 
@@ -64,10 +64,9 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 
 # 📊 GitHub Stats:
 
-![](https://komarev.com/ghpvc/?username=jeyapragash1&abbreviated=true&token=DcGtZpfaiNZlInjypakDQMrEajJQWV1gOgWv) <br/>
-<a href="https://github.com/jeyapragash1">
+![](https://github-readme-stats.vercel.app/api?username=jeyapragash1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jeyapragash1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jeyapragash1&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact&token=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)
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jeyapragash1&theme=dark&hide_border=false&count_private=true&token=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)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jeyapragash1&theme=blue_green&utcOffset=8&token=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)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jeyapragash1&theme=blue_green&token=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)
@@ -99,6 +98,12 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 ![Jeyapragash's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jeyapragash1&theme=radical&no-frame=true)
 
 ---
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
 
 ## 📈 Contribution Graph
 ![Jeyapragash's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=jeyapragash1&theme=tokyo-night&hide_border=false)
