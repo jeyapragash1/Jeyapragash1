@@ -77,11 +77,6 @@ a passionate Full Stack Developer from the beautiful island of Sri Lanka. I love
 
 ---
 
-## 🌍 Languages
-- **English**: Proficient
-- **Tamil**: Native
-- **Sinhala**: Advanced
-
 ---
 
 # 📊 Profile Viewer Count
