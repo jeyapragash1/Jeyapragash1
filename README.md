@@ -1,23 +1,53 @@
-# 💫 About Me
-Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm *Kisho Jeyapragash*,  
-a passionate Full Stack Developer from the beautiful island of Sri Lanka. I love turning ideas into reality through code!
+<div align="center">
+    <img height="150" src="./assets/top.gif" alt="top-image"/>
+</div>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="100%" />
+###    
 
----
+<div align="center">
+    <a href="https://www.linkedin.com/in/jeya-pragash" target="_blank">
+        <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50px" alt="Linkedin"/>
+    </a>
+    <a href="https://www.instagram.com/pragash_kv" target="_blank">
+        <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="50px"  alt="Instagram"/>
+    </a>
+</div>
 
-## 📞 Contact Information
-- **Name**: Kisho Jeyapragash
-- **Phone**: +94 763036242
-- **Email**: [kishojeyapragash@gmail.com](mailto:kishojeyapragash@gmail.com)
-- **Location**: Manmunai West Ganthinagar Unnichchai
-- **Portfolio**: [jeyapragashkisho.Vercel.app](https://jeyapragashkisho.vercel.app/)
-- **LinkedIn**: [Kisho Jeyapragash](https://www.linkedin.com/in/jeya-pragash) 
-- **GitHub**: [Jeyapragash1](https://github.com/Jeyapragash1)
+###    
 
----
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=jeyapragash1&color=blue" alt="profile-views"/>
+</div> 
 
-## 💻 Technical Skills
+###    
+
+<h1 align="center">
+    <span style="font-family: 'Righteous', sans-serif; font-size: 25px; color: #5c6bc0;">
+        Hi There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="Waving hand">
+    </span>
+    <br>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+Kisho+Jeyapragash;+a+passionate+Full+Stack+Developer;+from+the+beautiful+island+of+Sri+Lanka.;+I+love+turning+ideas+into+reality+through+code!" alt="Kisho Jeyapragash greeting message"/>
+</h1>
+
+
+###    
+
+<h2 align="center">🐍 MY CONTRIBUTIONS 🐍</h2>
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
+###
+
+<hr/>
+
+<h2 align="center">🛠 TECH STACK 🛠</h2>
+
+</hr>
 
 ### Programming Languages:
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
@@ -65,78 +95,134 @@ a passionate Full Stack Developer from the beautiful island of Sri Lanka. I love
   <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud">
 </div>
 
-## 🌟 Key Projects
+<hr/>
 
-### Event Management System
-- Designed and deployed an event management system to automate workflows and improve user experience.
-- **Technologies**: HTML, CSS, Bootstrap, JavaScript, PHP, MySQL
 
-### Job Portal (ShopNest)
-- Created a job portal connecting employers and job seekers, featuring job searches and direct applications.
-- **Technologies**: HTML, CSS, JavaScript, Java, JSP, MySQL
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C106%20hrs%2041%20mins-blue)
 
----
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-512.7%20thousand%20lines%20of%20code-blue)
 
----
+**I'm a Night 🦉** 
 
-# 📊 Profile Viewer Count
-![Profile Views](https://img.shields.io/badge/Profile%20Views-1234-blue?style=flat-square)
+```text
+🌞 Morning                263 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
+🌆 Daytime                631 commits         █████████░░░░░░░░░░░░░░░░   34.18 % 
+🌃 Evening                847 commits         ███████████░░░░░░░░░░░░░░   45.88 % 
+🌙 Night                  105 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
+```
+📅 **I'm Most Productive on Wednesday** 
 
-# 📊 GitHub Stats
+```text
+Monday                   275 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
+Tuesday                  250 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+Wednesday                294 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
+Thursday                 283 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
+Friday                   222 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
+Saturday                 249 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+Sunday                   273 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+```
 
-<div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
 
-#### Overall Contributions
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeyapragash1&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+📊 **This Week I Spent My Time On** 
 
-#### Top Languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jeyapragash1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+```text
+🕑︎ Time Zone: Asia/Colombo
 
-#### Contribution Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeyapragash1&theme=radical&hide_border=true&count_private=true)
+💬 Programming Languages: 
+Python                   7 hrs 56 mins       █████████████████████████   100.00 % 
 
-#### Productive Time
-![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jeyapragash1&theme=radical&utcOffset=8)
+🔥 Editors: 
+VS Code                  7 hrs 56 mins       █████████████████████████   100.00 % 
 
-#### Most Commit Language
-![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jeyapragash1&theme=radical)
+💻 Operating System: 
+Windows                  7 hrs 56 mins       █████████████████████████   100.00 % 
+```
 
+
+ Last Updated on 28/01/2025 01:57:26 UTC
+<!--END_SECTION:waka-->
+
+###
+
+<hr/>
+
+## ⚡ MY STATS ⚡
+
+<hr />
+
+<div align="center">
+    <table>
+        <tr>
+            <td align="center">
+                <h4>Overall Contributions</h4>
+                <img src="https://github-readme-stats.vercel.app/api?username=jeyapragash1&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Stats"/>
+            </td>
+            <td align="center">
+                <h4>Top Languages</h4>
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeyapragash1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">
+                <h4>Contribution Streak</h4>
+                <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeyapragash1&theme=radical&hide_border=true&count_private=true" alt="Contribution Streak"/>
+            </td>
+            <td align="center">
+                <h4>Productive Time</h4>
+                <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jeyapragash1&theme=radical&utcOffset=8" alt="Productive Time"/>
+            </td>
+        </tr>
+        <tr>
+             <td align="center">
+                <h4>Most Commit Language</h4>
+                <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jeyapragash1&theme=radical" alt="Most Commit Language"/>
+             </td>
+             <td align="center">
+                <h4>Top Contributed Repo</h4>
+                <img src="https://github-contributor-stats.vercel.app/api?username=jeyapragash1&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2" align="center">
+                <h4>Most Contribution Graph</h4>
+                <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeyapragash1&theme=tokyo-night&hide_border=false" alt="Most Contribution Graph"/>
+            </td>
+        </tr>
+      <tr>
+    <td align="center">
+        <h4>✍️ Random Dev Quote</h4>
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+    </td>
+    <td align="center">
+        <h4>GitHub Sponsors</h4>
+        <a href="https://github.com/sponsors/jeyapragash1">
+            <img src="https://img.shields.io/badge/Sponsored%20by-GitHub%20Sponsors-blue" alt="GitHub Sponsors"/>
+        </a>
+    </td>
+</tr>
+    </table>
 </div>
 
----
+</hr>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+    <table>
+        <tr>
+            <td align="center">
+                <h2>🎧 LISTEN WITH ME 🎧</h2>
+                <a href="https://open.spotify.com/user/zjqfkmbawszam1irs05fwxsls">
+                    <img src="https://spotify-recently-played-readme.vercel.app/api?user=zjqfkmbawszam1irs05fwxsls&count=5&unique=true" alt="Spotify recently played"  />
+                </a>
+            </td>
+            <td align="center">
+                <h2>👨‍💻 CODE WITH ME 👨‍💻</h2>
+                <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jeyapragash&theme=dark&compact=True&langs_count=10" alt="Most used programming languages in Wakatime" />
+            </td>
+        </tr>
+    </table>
+</div>
 
----
+###
 
-### 📈 Contribution Graph
-![Jeyapragash's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=jeyapragash1&theme=tokyo-night&hide_border=false)
-
----
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jeyapragash1&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
-
----
-
-[![Amazon Alexa](https://img.shields.io/badge/Amazon%20Alexa-00CAFF?logo=amazonalexa&logoColor=fff)](#)</br>
-[![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#)</br>
-[![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff)](#)</br>
-[![Google Assistant](https://img.shields.io/badge/Google%20Assistant-4285F4?logo=googleassistant&logoColor=fff)](#)</br>
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](#)</br>
-[![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)](#)</br>
-
----
-
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsored%20by-GitHub%20Sponsors-blue)](https://github.com/sponsors/jeyapragash1)
-
----
+<hr/>
