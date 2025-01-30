@@ -97,7 +97,6 @@
 
 <hr/>
 
-
 ## ⚡ MY STATS ⚡
 
 <hr />
@@ -117,43 +116,49 @@
         <tr>
             <td align="center">
                 <h4>Contribution Streak</h4>
-                <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeyapragash1&theme=radical&hide_border=true&count_private=true" alt="Contribution Streak"/>
+                <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeyapragash1&theme=dark&hide_border=false" alt="Contribution Streak"/>
             </td>
             <td align="center">
                 <h4>Productive Time</h4>
-                <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jeyapragash1&theme=radical&utcOffset=8" alt="Productive Time"/>
+                <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jeyapragash1&theme=radical&utcOffset=8" alt="Productive Time"/>
             </td>
         </tr>
         <tr>
-             <td align="center">
+            <td align="center">
                 <h4>Most Commit Language</h4>
-                <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jeyapragash1&theme=radical" alt="Most Commit Language"/>
-             </td>
-             <td align="center">
+                <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jeyapragash1&theme=radical" alt="Most Commit Language"/>
+            </td>
+            <td align="center">
                 <h4>Top Contributed Repo</h4>
-                <img src="https://github-contributor-stats.vercel.app/api?username=jeyapragash1&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+                <img src="https://github-contributor-stats.vercel.app/api?username=jeyapragash1&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
             </td>
         </tr>
         <tr>
-            <td colspan="2" align="center">
+            <td align="center">
                 <h4>Most Contribution Graph</h4>
                 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeyapragash1&theme=tokyo-night&hide_border=false" alt="Most Contribution Graph"/>
             </td>
+               </td>
+             <td align="center">
+                <h4>🏆 GitHub Trophies</h4>
+                <img src="https://github-profile-trophy.vercel.app/?username=jeyapragash1&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="Top Contributed Repo"/>
+            </td>
         </tr>
-      <tr>
-    <td align="center">
-        <h4>✍️ Random Dev Quote</h4>
-        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-    </td>
-    <td align="center">
-        <h4>GitHub Sponsors</h4>
-        <a href="https://github.com/sponsors/jeyapragash1">
-            <img src="https://img.shields.io/badge/Sponsored%20by-GitHub%20Sponsors-blue" alt="GitHub Sponsors"/>
-        </a>
-    </td>
-</tr>
+        <tr>
+            <td align="center">
+                <h4>✍️ Random Dev Quote</h4>
+                <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+            </td>
+            <td align="center">
+                <h4>GitHub Sponsors</h4>
+                <a href="https://github.com/sponsors/jeyapragash1">
+                    <img src="https://img.shields.io/badge/Sponsored%20by-GitHub%20Sponsors-blue" alt="GitHub Sponsors"/>
+                </a>
+            </td>
+        </tr>
     </table>
 </div>
+
 
 </hr>
 
@@ -214,10 +219,6 @@ Windows                  7 hrs 56 mins       ███████████�
                 <a href="https://open.spotify.com/user/zjqfkmbawszam1irs05fwxsls">
                     <img src="https://spotify-recently-played-readme.vercel.app/api?user=zjqfkmbawszam1irs05fwxsls&count=5&unique=true" alt="Spotify recently played"  />
                 </a>
-            </td>
-            <td align="center">
-                <h2>👨‍💻 CODE WITH ME 👨‍💻</h2>
-                <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jeyapragash&theme=dark&compact=True&langs_count=10" alt="Most used programming languages in Wakatime" />
             </td>
         </tr>
     </table>
