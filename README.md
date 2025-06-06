@@ -132,7 +132,7 @@
                 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jeyapragash1&theme=radical" alt="Most Commit Language"/>
             </td>
             <td align="center">
-                <h4>Top Contributed Repo</h4>
+                <h4>Top Contributed Repo's</h4>
                 <img src="https://github-contributor-stats.vercel.app/api?username=jeyapragash1&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
             </td>
         </tr>
