@@ -3,7 +3,7 @@
   <img height="150" src="./assets/top.gif" alt="top-image"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5C6BC0,100:2196F3&height=100&section=header&text=Welcome%20to%20My%20Profile!&fontColor=fff&fontSize=30&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5C6BC0,100:2196F3&height=150&section=header&text=Welcome%20to%20My%20Profile!&fontColor=fff&fontSize=30&animation=twinkling" />
 
 ###
 
