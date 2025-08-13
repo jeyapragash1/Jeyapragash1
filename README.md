@@ -54,7 +54,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 <!-- Tech Stack Section -->
-<h2 align="center">🛠 TECH STACK 🛠</h2>
+<h2 align="center">🛠 TECH STACK's 🛠</h2>
 
 ### Programming Languages:
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
