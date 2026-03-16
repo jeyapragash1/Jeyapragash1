@@ -1,124 +1,103 @@
-<!-- Top Animated Banner -->
-<div align="center">
-  <img height="150" src="./assets/top.gif" alt="top-image"/>
-</div>
+<h1 align="center">Hi 👋 I'm Jeyapragash</h1>
+<h3 align="center">Full Stack Developer | Software Engineering Student</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5C6BC0,100:2196F3&height=150&section=header&text=Welcome%20to%20My%20Profile!&fontColor=fff&fontSize=30&animation=twinkling" />
+<p align="center">
+Software Engineering undergraduate passionate about building real-world web applications, backend systems, and automation tools.
+</p>
 
-###
+---
 
-<!-- Social Media -->
-<div align="center">
-  <a href="https://www.linkedin.com/in/jeya-pragash" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50px" alt="Linkedin"/>
-  </a>
-  <a href="https://www.instagram.com/pragash_kv" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="50px"  alt="Instagram"/>
-  </a>
-</div>
+## 🚀 About Me
 
-###
+- 🎓 Undergraduate in **Industrial Information Technology (BSc Hons)**
+- 💻 Software Engineering Intern experience
+- 🌍 Based in **Sri Lanka**
+- 🔧 Interested in **Backend Development, APIs, and Full Stack Applications**
+- 📚 Currently improving **system design, scalable backend architecture, and AI integration**
 
-<!-- Profile Views -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jeyapragash1&color=blue&style=flat-square" alt="profile-views"/>
-</div> 
+---
 
-###
+## 🛠️ Tech Stack
 
-<!-- Intro with Typing Animation -->
-<h1 align="center">
-  <span style="font-family: 'Righteous', sans-serif; font-size: 25px; color: #5c6bc0;">
-    Hi There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="Waving hand">
-  </span>
-  <br>
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+Kisho+Jeyapragash;+a+passionate+Full+Stack+Developer;+from+the+beautiful+island+of+Sri+Lanka.;+I+love+turning+ideas+into+reality+through+code!" alt="Kisho Jeyapragash greeting message"/>
-</h1>
+### Languages
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
-###
+### Backend
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
 
-<!-- Contributions - Snake Animation -->
-<h2 align="center">🐍 MY CONTRIBUTIONS 🐍</h2>
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  </picture>
-</div>
+### Tools
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-###
+---
 
-<!-- Section Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+## 📌 Featured Projects
 
-<!-- Tech Stack Section -->
-<h2 align="center">🛠 TECH STACK's 🛠</h2>
+### 🎉 EventLanka
+Event management web platform that allows users to plan events, book services, and manage packages.
 
-### Programming Languages:
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-</div>
+**Tech Stack:** PHP, MySQL, JavaScript
 
-### Frontend:
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
-</div>
-
-### Backend & Databases:
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
-  <img src="https://img.shields.io/badge/CodeIgniter%203%20%2F%204-%23EE4323.svg?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter 3/4">
-</div>
-
-### AI & Automation Tools:
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.shields.io/badge/Flowise%20AI-%2300B4D8.svg?style=for-the-badge" alt="Flowise AI">
-  <img src="https://img.shields.io/badge/BootPress-%23212121.svg?style=for-the-badge&logo=wordpress&logoColor=white" alt="BootPress">
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face">
-  <img src="https://img.shields.io/badge/LangChain-%2300A67E.svg?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain">
-  <img src="https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
-  <img src="https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn">
-  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
-</div>
-
-### Cloud & Deployment:
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.shields.io/badge/Azure-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
-</div>
-
-### Tools & IDEs:
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</div>
+Features:
+- Event booking system
+- Service provider management
+- Package selection
+- Admin dashboard
 
 
-<br/>
-<!-- Ending Wave Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
+---
 
+### 🛡️ Sentinel Safe
+Visitor management and home security system.
+
+Features:
+- Visitor registration
+- Security alerts
+- Messaging system between guard and homeowner
+- Emergency alert option
+
+---
+
+### 🏥 Hospital Appointment Booking System
+Web-based platform for booking and managing hospital appointments.
+
+**Tech Stack:** Spring Boot, MySQL, HTML, CSS
+
+Features:
+- Patient appointment booking
+- Doctor schedule management
+- Appointment rescheduling and cancellation
+- Online payment support
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=jeyapragash1&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jeyapragash1&theme=tokyonight"/>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/jeyapragash1
+- LinkedIn: (add your linkedin link)
+- Email: (add your email)
+
+---
+
+⭐ *Always learning, building, and improving as a developer.*
