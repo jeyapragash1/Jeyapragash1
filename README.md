@@ -1,86 +1,143 @@
 <h1 align="center">Hi 👋 I'm Jeyapragash</h1>
-<h3 align="center">Full Stack Developer | Software Engineering Student</h3>
+<h3 align="center">Software Engineering Undergraduate | Full Stack Developer</h3>
 
 <p align="center">
-Software Engineering undergraduate passionate about building real-world web applications, backend systems, and automation tools.
+Passionate about building scalable web applications, backend systems, and AI-powered tools.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Undergraduate in **Industrial Information Technology (BSc Hons)**
-- 💻 Software Engineering Intern experience
-- 🌍 Based in **Sri Lanka**
-- 🔧 Interested in **Backend Development, APIs, and Full Stack Applications**
-- 📚 Currently improving **system design, scalable backend architecture, and AI integration**
+* 🎓 **BSc (Hons) Industrial Information Technology – Uva Wellassa University** (Expected 2026)
+* 💻 **Software Engineering Intern at JepSoft**
+* 🌍 Based in **Sri Lanka**
+* ⚡ Interested in **Full Stack Developer ,Backend Development, APIs, System Architecture and AI Integration**
+* 🤝 Experienced working in **Agile development environments**
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### Languages
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+## Frontend
 
-### Backend
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
+* React
+* Next.js
+* TypeScript
+* HTML5
+* CSS3
+* Tailwind CSS
+* Bootstrap
+* Vite
 
-### Database
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+## Backend
 
-### Tools
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+* PHP
+* Laravel
+* CodeIgniter
+* Node.js
+* Express.js
+* Python
+* FastAPI
+
+## Databases
+
+* MySQL
+* PostgreSQL
+* MongoDB
+
+## AI & Automation
+
+* Flowise AI
+* LangChain
+* OpenAI API
+
+## Tools & DevOps
+
+* Git
+* GitHub
+* Docker
+* Postman
+* VS Code
 
 ---
 
-## 📌 Featured Projects
+# 📌 Featured Projects
 
-### 🎉 EventLanka
+## 📊 EFCE Platform – Enterprise Analytics Dashboard
+
+Full-stack enterprise analytics platform for **incident analysis, risk management, and counterfactual simulations**.
+
+**Technologies:**
+Next.js, React, TypeScript, Tailwind CSS, FastAPI, PostgreSQL, REST APIs
+
+---
+
+## ⚙️ Low-Code Workflow Automation Platform
+
+Visual **node-based workflow builder** for designing and executing automation workflows.
+
+**Technologies:**
+React, Node.js, Express.js, PostgreSQL, JWT
+
+---
+
+## 🎉 EventLanka
+
 Event management web platform that allows users to plan events, book services, and manage packages.
 
 **Tech Stack:** PHP, MySQL, JavaScript
 
-Features:
-- Event booking system
-- Service provider management
-- Package selection
-- Admin dashboard
+**Features**
 
+* Event booking system
+* Service provider management
+* Package selection
+* Admin dashboard
 
 ---
 
-### 🛡️ Sentinel Safe
+## 🛡️ Sentinel Safe
+
 Visitor management and home security system.
 
-Features:
-- Visitor registration
-- Security alerts
-- Messaging system between guard and homeowner
-- Emergency alert option
+**Features**
+
+* Visitor registration
+* Security alerts
+* Messaging system between guard and homeowner
+* Emergency alert option
 
 ---
 
-### 🏥 Hospital Appointment Booking System
+## 🏥 Hospital Appointment Booking System
+
 Web-based platform for booking and managing hospital appointments.
 
-**Tech Stack:** Spring Boot, MySQL, HTML, CSS
+**Tech Stack:** Java(JSP), MySQL, HTML, CSS
 
-Features:
-- Patient appointment booking
-- Doctor schedule management
-- Appointment rescheduling and cancellation
-- Online payment support
+**Features**
+
+* Patient appointment booking
+* Doctor schedule management
+* Appointment rescheduling and cancellation
+* Online payment support
 
 ---
 
-## 📊 GitHub Stats
+# 💼 Professional Experience
+
+## Software Engineering Intern — JepSoft
+
+**Sept 2025 – March 2026**
+
+* Developed frontend and backend features
+* Debugged and improved application modules
+* Participated in code reviews and agile development
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=jeyapragash1&show_icons=true&theme=tokyonight"/>
@@ -92,11 +149,11 @@ Features:
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
-- GitHub: https://github.com/jeyapragash1
-- LinkedIn: (add your linkedin link)
-- Email: (add your email)
+* GitHub: https://github.com/jeyapragash1
+* LinkedIn: https://linkedin.com/in/kisho-jeyapragash
+* Email: [kishojeyapragash@gmail.com](mailto:kishojeyapragash@gmail.com)
 
 ---
 
