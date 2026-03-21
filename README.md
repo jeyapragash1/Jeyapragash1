@@ -134,11 +134,19 @@ Web-based platform for booking and managing hospital appointments.
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jeyapragash1&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jeyapragash1&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jeyapragash1&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeyapragash1&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📊 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/jeyapragash1?theme=dark&font=Baloo%202&ext=heatmap" />
 </p>
 
 ---
