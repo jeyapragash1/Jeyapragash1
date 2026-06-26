@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋 I'm Jeyapragash</h1>
-<h3 align="center">🚀 Full-Stack Developer | Backend Systems | AI Integration</h3>
+<h1 align="center">Hi 👋 I'm Kisho Jeyapragash</h1>
+<h3 align="center">🚀 Backend Software Engineer | Full-Stack Developer | AI Integration</h3>
 
 ---
 
@@ -22,31 +22,31 @@ I build **scalable, real-world platforms** with strong focus on architecture, pe
 
 ## 🚀 Featured Projects
 
-### 🔹 Deep_spaceSnap
+### 🔹 Deep Space Snap
 
-AI-powered interior design platform with real-time analysis, image processing, and AI-generated insights.
-**Stack:** React, Node.js, MongoDB, Stripe, AI APIs
-
----
-
-### 🔹 Low-Code Workflow Platform
-
-Visual automation system for designing and executing workflows.
-**Stack:** React, Node.js, Express, PostgreSQL
+AI-powered interior design platform with real-time visualization, image processing, and AI-generated design recommendations.  
+**Stack:** React.js, Node.js, Express.js, MongoDB, Stripe, AI APIs
 
 ---
 
-### 🔹 Smart Citizen
+### 🔹 Smart Citizen LK
 
-AI-driven digital service platform with workflow automation and intelligent user interaction.
-**Stack:** Next.js, FastAPI, MongoDB, OpenAI
+AI-driven digital service platform with workflow automation and intelligent user interaction.  
+**Stack:** Next.js, FastAPI, MongoDB, PostgreSQL, OpenAI API
 
 ---
 
 ### 🔹 Event Lanka
 
-Full-stack event management system with booking workflows and backend logic.
-**Stack:** PHP, MySQL, JavaScript
+Full-stack event management system with venue booking, vendor management, and backend workflows.  
+**Stack:** PHP, MySQL, JavaScript, Bootstrap
+
+---
+
+### 🔹 Low-Code Workflow Platform
+
+Visual workflow automation platform for designing and executing business workflows.  
+**Stack:** React.js, Node.js, Express.js, PostgreSQL
 
 ---
 
@@ -54,19 +54,19 @@ Full-stack event management system with booking workflows and backend logic.
 
 ### Frontend
 
-React, Next.js, JavaScript, TypeScript, HTML, CSS, Tailwind CSS
+React.js, Next.js, JavaScript, TypeScript, HTML5, CSS3, Tailwind CSS, Bootstrap
 
 ### Backend
 
-Node.js, Express.js, FastAPI, **PHP**, REST APIs
+Node.js, Express.js, FastAPI, PHP, Laravel, CodeIgniter, REST APIs
 
 ### Database
 
-MongoDB, MySQL, PostgreSQL
+MongoDB, MySQL, PostgreSQL, MariaDB, Firebase
 
 ### AI & Integrations
 
-OpenAI, Gemini, Hugging Face, Stripe, Cloudinary
+OpenAI, Gemini, Hugging Face, LLaMA, Stripe, Cloudinary, n8n
 
 ---
 
@@ -74,11 +74,23 @@ OpenAI, Gemini, Hugging Face, Stripe, Cloudinary
 
 ### Software Engineering Intern — JepSoft
 
-📅 Sept 2025 – March 2026
+📅 Sept 2025 – Mar 2026
 
-* Built and improved full-stack features
-* Debugged and optimized backend systems
-* Worked in agile teams and contributed to production-level code
+* Developed web applications using PHP, Laravel, CodeIgniter, React.js and Next.js
+* Built and maintained RESTful APIs
+* Worked with TypeScript and Python
+* Debugged production issues and implemented new features
+
+---
+
+### AI-Enabled Software Engineer Intern — SoftwarePlus Pvt Ltd
+
+📅 Jun 2025 – Dec 2025
+
+* Built AI-powered web applications using FastAPI, React.js and Next.js
+* Developed scalable REST APIs and backend services
+* Worked with MongoDB, PostgreSQL, OpenAI, Gemini and Hugging Face integrations
+* Developed AI-enabled features and workflow automation
 
 ---
 
@@ -106,8 +118,9 @@ OpenAI, Gemini, Hugging Face, Stripe, Cloudinary
 
 * GitHub: https://github.com/jeyapragash1
 * LinkedIn: https://linkedin.com/in/kisho-jeyapragash
+* Portfolio: https://jeyapragashkisho.vercel.app
 * Email: [kishojeyapragash@gmail.com](mailto:kishojeyapragash@gmail.com)
 
 ---
 
-⭐ Building scalable backend systems and AI-driven applications.
+⭐ Building scalable backend systems and AI-powered applications.
