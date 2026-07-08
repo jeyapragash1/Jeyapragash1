@@ -1,126 +1,152 @@
 <h1 align="center">Hi 👋 I'm Kisho Jeyapragash</h1>
-<h3 align="center">🚀 Backend Software Engineer | Full-Stack Developer | AI Integration</h3>
 
----
-
-## 🧠 About Me
-
-I’m an undergraduate Software Developer specializing in **backend systems, API development, and AI-powered applications**.
-
-I build **scalable, real-world platforms** with strong focus on architecture, performance, and intelligent system design.
-
----
-
-## 🔥 What I Build
-
-* ⚙️ Backend systems with REST APIs and role-based access
-* 🤖 AI-powered features using modern LLMs
-* 🌐 Full-stack applications with real-world workflows
-* 💳 Integrated platforms with payments, authentication, and automation
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 Deep Space Snap
-
-AI-powered interior design platform with real-time visualization, image processing, and AI-generated design recommendations.  
-**Stack:** React.js, Node.js, Express.js, MongoDB, Stripe, AI APIs
-
----
-
-### 🔹 Smart Citizen LK
-
-AI-driven digital service platform with workflow automation and intelligent user interaction.  
-**Stack:** Next.js, FastAPI, MongoDB, PostgreSQL, OpenAI API
-
----
-
-### 🔹 Event Lanka
-
-Full-stack event management system with venue booking, vendor management, and backend workflows.  
-**Stack:** PHP, MySQL, JavaScript, Bootstrap
-
----
-
-### 🔹 Low-Code Workflow Platform
-
-Visual workflow automation platform for designing and executing business workflows.  
-**Stack:** React.js, Node.js, Express.js, PostgreSQL
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-
-React.js, Next.js, JavaScript, TypeScript, HTML5, CSS3, Tailwind CSS, Bootstrap
-
-### Backend
-
-Node.js, Express.js, FastAPI, PHP, Laravel, CodeIgniter, REST APIs
-
-### Database
-
-MongoDB, MySQL, PostgreSQL, MariaDB, Firebase
-
-### AI & Integrations
-
-OpenAI, Gemini, Hugging Face, LLaMA, Stripe, Cloudinary, n8n
-
----
-
-## 💼 Experience
-
-### Software Engineering Intern — JepSoft
-
-📅 Sept 2025 – Mar 2026
-
-* Developed web applications using PHP, Laravel, CodeIgniter, React.js and Next.js
-* Built and maintained RESTful APIs
-* Worked with TypeScript and Python
-* Debugged production issues and implemented new features
-
----
-
-### AI-Enabled Software Engineer Intern — SoftwarePlus Pvt Ltd
-
-📅 Jun 2025 – Dec 2025
-
-* Built AI-powered web applications using FastAPI, React.js and Next.js
-* Developed scalable REST APIs and backend services
-* Worked with MongoDB, PostgreSQL, OpenAI, Gemini and Hugging Face integrations
-* Developed AI-enabled features and workflow automation
-
----
-
-## 📊 GitHub Stats
+<h3 align="center">
+Backend-Focused Full-Stack Software Engineer • AI Enthusiast • Product Builder
+</h3>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jeyapragash1&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jeyapragash1&theme=tokyonight&hide_border=true" />
+I build scalable web applications, AI-powered platforms, and modern SaaS products with a strong focus on backend architecture, clean APIs, cloud technologies, and intelligent automation.
 </p>
 
 ---
 
-## 📊 LeetCode Stats
+# 🚀 About Me
+
+- 🎓 B.Sc. (Hons) in Industrial Information Technology
+- 💻 Backend-Focused Full-Stack Developer
+- 🤖 Passionate about Artificial Intelligence & Automation
+- 🏗 Founder of **BizPilotLabs**
+- 🚀 Currently building **BizPilot AI** — An AI-Powered Business Operating System
+- 🌱 Always learning new technologies and building real-world software
+- 🎯 Goal: Build products that solve real business problems
+
+---
+
+# 💼 Experience
+
+## Software Engineering Intern — JepSoft
+
+**Sept 2025 – Mar 2026**
+
+- Developed scalable web applications using PHP, Laravel, CodeIgniter, React.js and Next.js
+- Built and maintained RESTful APIs
+- Worked with TypeScript and Python
+- Debugged production issues and delivered new features
+
+---
+
+## AI-Enabled Software Engineer Intern — SoftwarePlus Pvt Ltd
+
+**Jun 2025 – Dec 2025**
+
+- Developed AI-powered web applications using FastAPI, React.js and Next.js
+- Built scalable backend services and REST APIs
+- Integrated OpenAI, Gemini and Hugging Face models
+- Worked with MongoDB and PostgreSQL
+- Implemented AI workflow automation
+
+---
+
+# 🛠 Tech Stack
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap,vite" />
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,php,laravel,spring,mysql" />
+</p>
+
+## Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase" />
+</p>
+
+## AI & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,docker,git,github,vercel,figma" />
+</p>
+
+**AI Technologies**
+
+- OpenAI
+- Google Gemini
+- Hugging Face
+- Llama Models
+- LangChain
+- n8n
+- Cloudinary
+- Stripe
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 BizPilot AI *(In Development)*
+
+An AI-powered Business Operating System designed to help organizations manage employees, customers, projects, workflows, analytics, and intelligent automation from one unified platform.
+
+**Tech Stack**
+
+React • Node.js • Express • PostgreSQL • AI • Docker • TypeScript
+
+---
+
+## 👁 Adaptive Eye-Gaze Communication System
+
+An undergraduate research project focused on helping Locked-in Syndrome (LiS) patients communicate using adaptive webcam-based eye tracking and multilingual voice guidance.
+
+---
+
+## 🌌 SpaceSnap
+
+AI-powered Interior Design Platform featuring room visualization, AI-assisted design suggestions, AR integration, and designer collaboration.
+
+---
+
+# 📈 GitHub Statistics
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/jeyapragash1?theme=dark&font=Baloo%202&ext=heatmap" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jeyapragash1&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeyapragash1&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jeyapragash1&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 📫 Contact
+# 📫 Connect With Me
 
-* GitHub: https://github.com/jeyapragash1
-* LinkedIn: https://linkedin.com/in/kisho-jeyapragash
-* Portfolio: https://jeyapragashkisho.vercel.app
-* Email: [kishojeyapragash@gmail.com](mailto:kishojeyapragash@gmail.com)
+- 🌐 Portfolio: https://jeyapragashkisho.vercel.app
+- 💼 LinkedIn: https://linkedin.com/in/kisho-jeyapragash
+- 💻 GitHub: https://github.com/jeyapragash1
+- 📧 Email: kishojeyapragash@gmail.com
 
 ---
 
-⭐ Building scalable backend systems and AI-powered applications.
+# 🌟 Current Focus
+
+- 🚀 Building **BizPilot AI**
+- 🤖 AI-Powered SaaS Applications
+- ⚡ Backend Architecture
+- 🔐 Secure REST APIs
+- ☁ Cloud-Native Systems
+- 🧠 Intelligent Workflow Automation
+
+---
+
+<p align="center">
+
+### "Building software that solves real-world problems through AI, scalable architecture, and great user experiences."
+
+⭐ Thanks for visiting my profile!
+
+</p>
