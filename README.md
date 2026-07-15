@@ -113,18 +113,16 @@ AI-powered Interior Design Platform featuring room visualization, AI-assisted de
 # 📈 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jeyapragash1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeyapragash1&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jeyapragash1&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jeyapragash1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=jeyapragash1&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeyapragash1&theme=tokyo-night&hide_border=true" />
-</p>
-
+---
+ 
 # 📫 Connect With Me
 
 - 🌐 Portfolio: https://jeyapragashkisho.vercel.app
