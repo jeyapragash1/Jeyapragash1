@@ -245,58 +245,6 @@ I build scalable web applications, AI-powered platforms, and modern SaaS product
 
 ---
 
-## 📊 GitHub Dashboard
-
-<!-- Auto-generated static stats (includes private/restricted if you add a PAT to repo secret GH_STATS_TOKEN) -->
-<p align="center">
-	<img src="./stats/github_stats.svg" alt="Generated GitHub Stats" />
-</p>
-
-<table>
-	<tr>
-		<td width="50%" align="center">
-			<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jeyapragash1&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-		</td>
-		<td width="50%" align="center">
-			<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jeyapragash1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
-		</td>
-	</tr>
-	<tr>
-		<td width="50%" align="center">
-			<img src="https://streak-stats.demolab.com?user=jeyapragash1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-		</td>
-		<td width="50%" align="center">
-			<img src="https://github-readme-activity-graph.vercel.app/graph?username=jeyapragash1&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-		</td>
-	</tr>
-	<tr>
-		<td width="50%" align="center">
-			<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeyapragash1&theme=tokyonight" alt="Profile Summary" />
-		</td>
-		<td width="50%" align="center">
-			<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jeyapragash1&theme=tokyonight" alt="GitHub Metrics" />
-		</td>
-	</tr>
-</table>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-	<img src="https://github-profile-trophy.vercel.app/?username=jeyapragash1&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophy" />
-</p>
-
-<p align="center">
-	<img src="https://ghchart.rshah.org/jeyapragash1" alt="Contribution Graph" />
-</p>
-
-<p align="center">
-	<img src="https://komarev.com/ghpvc/?username=jeyapragash1&style=for-the-badge&color=0ea5e9" alt="Visitor Counter" />
-</p>
-
----
-
 ## 📫 Contact
 
 <p align="center">
