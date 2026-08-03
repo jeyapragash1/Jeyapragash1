@@ -247,6 +247,11 @@ I build scalable web applications, AI-powered platforms, and modern SaaS product
 
 ## 📊 GitHub Dashboard
 
+<!-- Auto-generated static stats (includes private/restricted if you add a PAT to repo secret GH_STATS_TOKEN) -->
+<p align="center">
+	<img src="./stats/github_stats.svg" alt="Generated GitHub Stats" />
+</p>
+
 <table>
 	<tr>
 		<td width="50%" align="center">
