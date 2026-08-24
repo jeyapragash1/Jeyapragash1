@@ -1,16 +1,40 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="760" height="140">
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="200" viewBox="0 0 760 200" fill="none">
   <style>
-    .bg { fill: #0b1220 } 
-    .card { fill: #0f1724; stroke: #1e293b; stroke-width:1 }
-    .title { fill: #38bdf8; font-family: Inter, system-ui, -apple-system, sans-serif; font-size:18px; font-weight:700 }
-    .label { fill: #94a3b8; font-family: Inter, system-ui, -apple-system, sans-serif; font-size:13px }
-    .value { fill: #f8fafc; font-family: Inter, system-ui, -apple-system, sans-serif; font-size:22px; font-weight:700 }
+    .bg { fill: #0b1220; rx: 10px; } 
+    .card { fill: #0f172a; stroke: #1e293b; stroke-width: 1.5; rx: 8px; }
+    .title { fill: #38bdf8; font-family: 'Inter', -apple-system, sans-serif; font-size: 18px; font-weight: 700; }
+    .sub { fill: #94a3b8; font-family: 'Inter', -apple-system, sans-serif; font-size: 13px; }
+    .label { fill: #cbd5e1; font-family: 'Inter', -apple-system, sans-serif; font-size: 13px; font-weight: 500; }
+    .value { fill: #f8fafc; font-family: 'Inter', -apple-system, sans-serif; font-size: 20px; font-weight: 700; }
+    .lang-title { fill: #38bdf8; font-family: 'Inter', -apple-system, sans-serif; font-size: 14px; font-weight: 600; }
+    .lang-name { fill: #e2e8f0; font-family: 'Inter', -apple-system, sans-serif; font-size: 12px; }
+    .lang-pct { fill: #94a3b8; font-family: 'Inter', -apple-system, sans-serif; font-size: 12px; }
   </style>
-  <rect class="bg" width="100%" height="100%" rx="8"/>
-  <rect class="card" x="12" y="12" width="736" height="116" rx="6"/>
-  <text x="36" y="42" class="title">⚡ K. Jeyapragash — GitHub Activity Telemetry</text>
-  <text x="36" y="75" class="label">Total Contributions (This Year):</text>
-  <text x="270" y="75" class="value">1,128+</text>
-  <text x="36" y="105" class="label">GraphQL Commit Telemetry:</text>
-  <text x="240" y="105" class="value">Active Sync</text>
+  <rect class="bg" width="100%" height="100%"/>
+  <rect class="card" x="12" y="12" width="736" height="176"/>
+  
+  <!-- Header -->
+  <text x="32" y="42" class="title">⚡ Kisho Jeyapragash — GitHub Telemetry &amp; Stats</text>
+  <text x="32" y="62" class="sub">Automated GraphQL Data Sync</text>
+  
+  <!-- Stat Columns -->
+  <text x="32" y="95" class="label">Total Contributions (Year):</text>
+  <text x="32" y="120" class="value">1,128+</text>
+  
+  <text x="240" y="95" class="label">GraphQL Commit Total:</text>
+  <text x="240" y="120" class="value">Active Sync</text>
+  
+  <text x="440" y="95" class="label">Private Contributions:</text>
+  <text x="440" y="120" class="value">Included</text>
+
+  <!-- Languages Bar -->
+  <text x="32" y="150" class="lang-title">Top Languages:</text>
+  <circle cx="150" cy="146" r="5" fill="#f1e05a"/>
+  <text x="160" y="150" class="lang-name">JavaScript</text>
+  <circle cx="250" cy="146" r="5" fill="#3572A5"/>
+  <text x="260" y="150" class="lang-name">Python</text>
+  <circle cx="340" cy="146" r="5" fill="#3178c6"/>
+  <text x="350" y="150" class="lang-name">TypeScript</text>
+  <circle cx="450" cy="146" r="5" fill="#4F5D95"/>
+  <text x="460" y="150" class="lang-name">PHP</text>
 </svg>

@@ -140,15 +140,17 @@
 
 <br/>
 
-### 📈 Activity & Languages Overview
+### 📈 Activity & Streak Overview
 
 <p align="center">
   <a href="https://github.com/jeyapragash1">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Jeyapragash1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/jeyapragash1">
     <img src="https://streak-stats.demolab.com/?user=jeyapragash1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/jeyapragash1">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeyapragash1&theme=tokyonight&hide_border=true" alt="Contribution Graph" width="100%" />
   </a>
 </p>
 
