@@ -140,17 +140,11 @@
 
 <br/>
 
-### 📈 Activity & Streak Overview
+### 📈 Activity & Contribution Trends
 
 <p align="center">
   <a href="https://github.com/jeyapragash1">
-    <img src="https://streak-stats.demolab.com/?user=jeyapragash1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/jeyapragash1">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeyapragash1&theme=tokyonight&hide_border=true" alt="Contribution Graph" width="100%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeyapragash1&theme=github-dark&hide_border=true" alt="Contribution Activity Graph" width="100%" />
   </a>
 </p>
 
