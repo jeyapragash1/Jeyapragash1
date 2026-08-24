@@ -144,11 +144,11 @@
 
 <p align="center">
   <a href="https://github.com/jeyapragash1">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeyapragash1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Jeyapragash1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/jeyapragash1">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeyapragash1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=jeyapragash1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
