@@ -128,22 +128,28 @@
 
 <div align="center">
 
-### 🐍 GitHub Contribution Grid
+### 🐍 Contribution Grid & Live Telemetry
 
-![Snake Animation](https://raw.githubusercontent.com/jeyapragash1/jeyapragash1/output/github-snake-dark.svg)
-
-<br/>
-
-### ⚡ Live GraphQL Summary
-![Kisho's GitHub Stats](stats/github_stats.svg)
-
-<br/>
-
-### 📈 Language Distribution & Streak Overview
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeyapragash1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeyapragash1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/jeyapragash1/jeyapragash1/output/github-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jeyapragash1/jeyapragash1/main/stats/github_stats.svg" alt="Kisho's GitHub Telemetry" width="760" />
+</p>
+
+<br/>
+
+### 📈 Activity & Languages Overview
+
+<p align="center">
+  <a href="https://github.com/jeyapragash1">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeyapragash1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/jeyapragash1">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeyapragash1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
 </p>
 
 </div>

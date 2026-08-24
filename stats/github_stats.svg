@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="140">
+  <style>
+    .bg { fill: #0b1220 } 
+    .card { fill: #0f1724; stroke: #1e293b; stroke-width:1 }
+    .title { fill: #38bdf8; font-family: Inter, system-ui, -apple-system, sans-serif; font-size:18px; font-weight:700 }
+    .label { fill: #94a3b8; font-family: Inter, system-ui, -apple-system, sans-serif; font-size:13px }
+    .value { fill: #f8fafc; font-family: Inter, system-ui, -apple-system, sans-serif; font-size:22px; font-weight:700 }
+  </style>
+  <rect class="bg" width="100%" height="100%" rx="8"/>
+  <rect class="card" x="12" y="12" width="736" height="116" rx="6"/>
+  <text x="36" y="42" class="title">⚡ K. Jeyapragash — GitHub Activity Telemetry</text>
+  <text x="36" y="75" class="label">Total Contributions (This Year):</text>
+  <text x="270" y="75" class="value">1,128+</text>
+  <text x="36" y="105" class="label">GraphQL Commit Telemetry:</text>
+  <text x="240" y="105" class="value">Active Sync</text>
+</svg>
